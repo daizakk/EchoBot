@@ -15,8 +15,8 @@ pip install -r requirements.txt
 python bot.py
 
 ## Dependencias
-- `python-telegram-bot==20.x`
+- `python-telegram-bot==21.9`
 
 ## ID del bot
-`1234567890:ABCDEFghijklmnopqrstuvwxyz`
+`7746596395:AAGGGmPVGgS2RMP2JzIfPs-Qk7-cFjZFv_Y`
 
